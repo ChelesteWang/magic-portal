@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Make micro-components and micro-frontends never that easy again.
+Make micro-components and micro-frontends no easier than before.
 
 [![GitHub](https://img.shields.io/github/license/bytedance/magic-microservices?color=blue)](https://github.com/bytedance/magic-microservices/blob/main/LICENSE)
 
